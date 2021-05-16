@@ -31,7 +31,7 @@ We use the following methods for the analysis:
 
 ##  Summary
 
-The ** Deep Learning Neural Network model**  did not reach the 75% accuracy. Based on the outcome, the model is not outperformed. This a classification scenario that fits a supervised mchine leaning model like **Randon Forest Classifier** and combine with **Decision Tree** to generate a classifed output and evaluate its performance against the deep learning model.
+The **Deep Learning Neural Network model**  did not reach the 75% accuracy. Based on the outcome, the model is not outperformed. This a classification scenario that fits a supervised machine leaning model like **Randon Forest Classifier** and combine with **Decision Tree** to generate a classifed output and evaluate its performance against the deep learning model.
  
 
 
